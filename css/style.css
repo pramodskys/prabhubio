@@ -24,7 +24,7 @@ a {
 }
 
 .landing-page .bg {
-  background-color: rgb(0,116,217);
+  background-color: "#CCFF0000";
   width: 40vw;
   height: 100vh;
   display: flex;
